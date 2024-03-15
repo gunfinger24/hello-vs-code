@@ -1,0 +1,21 @@
+{
+	"workbench.startupEditor": "none",
+	"workbench.editor.editorActionsLocation": "titleBar",
+	"workbench.colorTheme": "Monokai Dimmed",
+	"workbench.iconTheme": "eq-material-theme-icons-deepforest",
+	"editor.tabSize": 3,
+	"editor.comments.insertSpace": false,
+	"editor.insertSpaces": false,
+	"editor.mouseWheelZoom": true,
+	"workbench.editor.closeEmptyGroups": false,
+	"editor.formatOnSave": true,
+	"liveSassCompile.settings.generateMap": false,
+	"liveSassCompile.settings.formats": [
+		 {
+			  "format": "expanded",
+			  "autoprefix": "last 5 versions",
+			  "extensionName": ".css",
+			  "savePath": "css"
+		 }
+	]
+}
